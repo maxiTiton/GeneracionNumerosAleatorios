@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./backend/Libreria/sim-tp1-logica",
+        "./backend/sim-tp1-logica"
+    ]
+}
